@@ -1,0 +1,142 @@
+[
+  {
+    "timestamp": "2026-03-12T08:01:14Z",
+    "source_ip": "203.0.113.45",
+    "destination_ip": "10.0.4.12",
+    "activity_type": "port_scan",
+    "bytes_transferred": 1840
+  },
+  {
+    "timestamp": "2026-03-12T08:03:27Z",
+    "source_ip": "198.51.100.22",
+    "destination_ip": "10.0.4.10",
+    "activity_type": "login_attempt",
+    "bytes_transferred": 620
+  },
+  {
+    "timestamp": "2026-03-12T08:05:09Z",
+    "source_ip": "10.0.2.15",
+    "destination_ip": "10.0.5.20",
+    "activity_type": "file_access",
+    "bytes_transferred": 12450
+  },
+  {
+    "timestamp": "2026-03-12T08:07:41Z",
+    "source_ip": "10.0.3.8",
+    "destination_ip": "172.16.1.33",
+    "activity_type": "data_transfer",
+    "bytes_transferred": 845320
+  },
+  {
+    "timestamp": "2026-03-12T08:10:55Z",
+    "source_ip": "10.0.1.77",
+    "destination_ip": "10.0.1.5",
+    "activity_type": "privilege_escalation",
+    "bytes_transferred": 4310
+  },
+  {
+    "timestamp": "2026-03-12T08:12:19Z",
+    "source_ip": "185.199.108.77",
+    "destination_ip": "10.0.4.19",
+    "activity_type": "malware_activity",
+    "bytes_transferred": 38960
+  },
+  {
+    "timestamp": "2026-03-12T08:14:02Z",
+    "source_ip": "198.51.100.91",
+    "destination_ip": "10.0.4.12",
+    "activity_type": "port_scan",
+    "bytes_transferred": 2110
+  },
+  {
+    "timestamp": "2026-03-12T08:16:48Z",
+    "source_ip": "203.0.113.13",
+    "destination_ip": "10.0.4.10",
+    "activity_type": "login_attempt",
+    "bytes_transferred": 710
+  },
+  {
+    "timestamp": "2026-03-12T08:19:26Z",
+    "source_ip": "10.0.2.40",
+    "destination_ip": "10.0.5.22",
+    "activity_type": "file_access",
+    "bytes_transferred": 28740
+  },
+  {
+    "timestamp": "2026-03-12T08:22:11Z",
+    "source_ip": "10.0.3.11",
+    "destination_ip": "172.16.1.45",
+    "activity_type": "data_transfer",
+    "bytes_transferred": 1320440
+  },
+  {
+    "timestamp": "2026-03-12T08:24:58Z",
+    "source_ip": "10.0.1.92",
+    "destination_ip": "10.0.1.5",
+    "activity_type": "privilege_escalation",
+    "bytes_transferred": 5090
+  },
+  {
+    "timestamp": "2026-03-12T08:27:33Z",
+    "source_ip": "192.0.2.66",
+    "destination_ip": "10.0.4.19",
+    "activity_type": "malware_activity",
+    "bytes_transferred": 47210
+  },
+  {
+    "timestamp": "2026-03-12T08:30:17Z",
+    "source_ip": "203.0.113.200",
+    "destination_ip": "10.0.4.12",
+    "activity_type": "port_scan",
+    "bytes_transferred": 1670
+  },
+  {
+    "timestamp": "2026-03-12T08:33:42Z",
+    "source_ip": "198.51.100.117",
+    "destination_ip": "10.0.4.10",
+    "activity_type": "login_attempt",
+    "bytes_transferred": 540
+  },
+  {
+    "timestamp": "2026-03-12T08:36:03Z",
+    "source_ip": "10.0.2.15",
+    "destination_ip": "10.0.5.24",
+    "activity_type": "file_access",
+    "bytes_transferred": 19430
+  },
+  {
+    "timestamp": "2026-03-12T08:38:29Z",
+    "source_ip": "10.0.3.27",
+    "destination_ip": "172.16.1.33",
+    "activity_type": "data_transfer",
+    "bytes_transferred": 962880
+  },
+  {
+    "timestamp": "2026-03-12T08:41:07Z",
+    "source_ip": "10.0.1.120",
+    "destination_ip": "10.0.1.5",
+    "activity_type": "privilege_escalation",
+    "bytes_transferred": 3860
+  },
+  {
+    "timestamp": "2026-03-12T08:43:51Z",
+    "source_ip": "185.199.109.21",
+    "destination_ip": "10.0.4.19",
+    "activity_type": "malware_activity",
+    "bytes_transferred": 55320
+  },
+  {
+    "timestamp": "2026-03-12T08:46:18Z",
+    "source_ip": "203.0.113.88",
+    "destination_ip": "10.0.4.12",
+    "activity_type": "port_scan",
+    "bytes_transferred": 2390
+  },
+  {
+    "timestamp": "2026-03-12T08:49:40Z",
+    "source_ip": "198.51.100.34",
+    "destination_ip": "10.0.4.10",
+    "activity_type": "login_attempt",
+    "bytes_transferred": 680
+  }
+]

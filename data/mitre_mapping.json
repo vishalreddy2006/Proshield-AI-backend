@@ -1,0 +1,57 @@
+{
+  "port_scan": {
+    "technique_id": "T1595",
+    "technique_name": "Active Scanning",
+    "tactic": "Reconnaissance"
+  },
+  "login_attempt": {
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "tactic": "Credential Access"
+  },
+  "file_access": {
+    "technique_id": "T1005",
+    "technique_name": "Data from Local System",
+    "tactic": "Collection"
+  },
+  "data_transfer": {
+    "technique_id": "T1048",
+    "technique_name": "Exfiltration Over Alternative Protocol",
+    "tactic": "Exfiltration"
+  },
+  "data_exfiltration": {
+    "technique_id": "T1041",
+    "technique_name": "Exfiltration Over C2 Channel",
+    "tactic": "Exfiltration"
+  },
+  "privilege_escalation": {
+    "technique_id": "T1068",
+    "technique_name": "Exploitation for Privilege Escalation",
+    "tactic": "Privilege Escalation"
+  },
+  "lateral_movement": {
+    "technique_id": "T1021",
+    "technique_name": "Remote Services",
+    "tactic": "Lateral Movement"
+  },
+  "malware_activity": {
+    "technique_id": "T1204",
+    "technique_name": "User Execution",
+    "tactic": "Execution"
+  },
+  "failed_login": {
+    "technique_id": "T1110",
+    "technique_name": "Brute Force",
+    "tactic": "Credential Access"
+  },
+  "disabled_security_tool": {
+    "technique_id": "T1562",
+    "technique_name": "Impair Defenses",
+    "tactic": "Defense Evasion"
+  },
+  "unknown_process_execution": {
+    "technique_id": "T1204",
+    "technique_name": "User Execution",
+    "tactic": "Execution"
+  }
+}

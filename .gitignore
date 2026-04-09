@@ -1,0 +1,1 @@
+__pycache__/&echo *.py[cod]&echo .env&echo .venv/&echo venv/&echo users.db
